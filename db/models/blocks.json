@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "name": "Core",
+    "created_at": "2013-11-11T17:41:18.394Z",
+    "updated_at": "2013-11-11T17:41:18.394Z"
+  },
+  {
+    "id": 2,
+    "name": "Mirrodin",
+    "created_at": "2013-11-11T17:41:18.419Z",
+    "updated_at": "2013-11-11T17:41:18.419Z"
+  },
+  {
+    "id": 3,
+    "name": "Shards of Alara",
+    "created_at": "2013-11-11T17:41:18.453Z",
+    "updated_at": "2013-11-11T17:41:18.453Z"
+  },
+  {
+    "id": 4,
+    "name": "Ice Age",
+    "created_at": "2013-11-11T17:41:18.460Z",
+    "updated_at": "2013-11-11T17:41:18.460Z"
+  },
+  {
+    "id": 5,
+    "name": "Invasion",
+    "created_at": "2013-11-11T17:41:18.468Z",
+    "updated_at": "2013-11-11T17:41:18.468Z"
+  },
+  {
+    "id": 6,
+    "name": null,
+    "created_at": "2013-11-11T17:41:18.479Z",
+    "updated_at": "2013-11-11T17:41:18.479Z"
+  },
+  {
+    "id": 7,
+    "name": "Innistrad",
+    "created_at": "2013-11-11T17:41:18.500Z",
+    "updated_at": "2013-11-11T17:41:18.500Z"
+  },
+  {
+    "id": 8,
+    "name": "Kamigawa",
+    "created_at": "2013-11-11T17:41:18.508Z",
+    "updated_at": "2013-11-11T17:41:18.508Z"
+  },
+  {
+    "id": 9,
+    "name": "Commander",
+    "created_at": "2013-11-11T17:41:18.525Z",
+    "updated_at": "2013-11-11T17:41:18.525Z"
+  },
+  {
+    "id": 10,
+    "name": "Duel Decks",
+    "created_at": "2013-11-11T17:41:18.557Z",
+    "updated_at": "2013-11-11T17:41:18.557Z"
+  },
+  {
+    "id": 11,
+    "name": "Return to Ravnica",
+    "created_at": "2013-11-11T17:41:18.611Z",
+    "updated_at": "2013-11-11T17:41:18.611Z"
+  },
+  {
+    "id": 12,
+    "name": "Ravnica",
+    "created_at": "2013-11-11T17:41:18.618Z",
+    "updated_at": "2013-11-11T17:41:18.618Z"
+  },
+  {
+    "id": 13,
+    "name": "Video Game",
+    "created_at": "2013-11-11T17:41:18.637Z",
+    "updated_at": "2013-11-11T17:41:18.637Z"
+  },
+  {
+    "id": 14,
+    "name": "From the vault",
+    "created_at": "2013-11-11T17:41:18.646Z",
+    "updated_at": "2013-11-11T17:41:18.646Z"
+  },
+  {
+    "id": 15,
+    "name": "Shadowmoor",
+    "created_at": "2013-11-11T17:41:18.663Z",
+    "updated_at": "2013-11-11T17:41:18.663Z"
+  },
+  {
+    "id": 16,
+    "name": "Rath",
+    "created_at": "2013-11-11T17:41:18.675Z",
+    "updated_at": "2013-11-11T17:41:18.675Z"
+  },
+  {
+    "id": 17,
+    "name": "Premium Deck Series",
+    "created_at": "2013-11-11T17:41:18.700Z",
+    "updated_at": "2013-11-11T17:41:18.700Z"
+  },
+  {
+    "id": 18,
+    "name": "Planechase",
+    "created_at": "2013-11-11T17:41:18.712Z",
+    "updated_at": "2013-11-11T17:41:18.712Z"
+  },
+  {
+    "id": 19,
+    "name": "Odyssey",
+    "created_at": "2013-11-11T17:41:18.734Z",
+    "updated_at": "2013-11-11T17:41:18.734Z"
+  },
+  {
+    "id": 20,
+    "name": "Onslaught",
+    "created_at": "2013-11-11T17:41:18.755Z",
+    "updated_at": "2013-11-11T17:41:18.755Z"
+  },
+  {
+    "id": 21,
+    "name": "Lorwyn",
+    "created_at": "2013-11-11T17:41:18.764Z",
+    "updated_at": "2013-11-11T17:41:18.764Z"
+  },
+  {
+    "id": 22,
+    "name": "Scars of Mirrodin",
+    "created_at": "2013-11-11T17:41:18.797Z",
+    "updated_at": "2013-11-11T17:41:18.797Z"
+  },
+  {
+    "id": 23,
+    "name": "Masters Editions",
+    "created_at": "2013-11-11T17:41:18.805Z",
+    "updated_at": "2013-11-11T17:41:18.805Z"
+  },
+  {
+    "id": 24,
+    "name": "Master Editions",
+    "created_at": "2013-11-11T17:41:18.812Z",
+    "updated_at": "2013-11-11T17:41:18.812Z"
+  },
+  {
+    "id": 25,
+    "name": "Mirage",
+    "created_at": "2013-11-11T17:41:18.832Z",
+    "updated_at": "2013-11-11T17:41:18.832Z"
+  },
+  {
+    "id": 26,
+    "name": "Masquerade",
+    "created_at": "2013-11-11T17:41:18.844Z",
+    "updated_at": "2013-11-11T17:41:18.844Z"
+  },
+  {
+    "id": 27,
+    "name": "Portal",
+    "created_at": "2013-11-11T17:41:18.877Z",
+    "updated_at": "2013-11-11T17:41:18.877Z"
+  },
+  {
+    "id": 28,
+    "name": "Time Spiral",
+    "created_at": "2013-11-11T17:41:18.906Z",
+    "updated_at": "2013-11-11T17:41:18.906Z"
+  },
+  {
+    "id": 29,
+    "name": "Zendikar",
+    "created_at": "2013-11-11T17:41:18.927Z",
+    "updated_at": "2013-11-11T17:41:18.927Z"
+  },
+  {
+    "id": 30,
+    "name": "Starter",
+    "created_at": "2013-11-11T17:41:18.940Z",
+    "updated_at": "2013-11-11T17:41:18.940Z"
+  },
+  {
+    "id": 31,
+    "name": "Theros",
+    "created_at": "2013-11-11T17:41:18.974Z",
+    "updated_at": "2013-11-11T17:41:18.974Z"
+  },
+  {
+    "id": 32,
+    "name": "Artifacts",
+    "created_at": "2013-11-11T17:41:19.003Z",
+    "updated_at": "2013-11-11T17:41:19.003Z"
+  },
+  {
+    "id": 33,
+    "name": "Un-sets",
+    "created_at": "2013-11-11T17:41:19.012Z",
+    "updated_at": "2013-11-11T17:41:19.012Z"
+  }
+]

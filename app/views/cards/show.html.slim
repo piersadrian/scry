@@ -1,0 +1,16 @@
+img src=@card.image_url
+
+h2 = "#{ @card.name } (#{ @card.mana_cost }, #{ @card.converted_cost })"
+h3 = @card.card_type << (@card.subtype.present? ? " – #{ @card.subtype }" : "")
+p  = @card.text
+p
+  em = @card.flavor
+
+br
+br
+
+h4 Releases
+ol
+  - @editions.each do |ed|
+    li
+      a href=card_path(ed) = "#{ ed.card_set.name } (#{ ed.card_set.release_date.year })"

@@ -1,0 +1,22 @@
+h2 New deck
+
+= label_tag "Card name"
+br
+= text_field_tag :card_name, nil, id: "card-name"
+
+/ - card = Card.last
+/ .card-suggestion.group
+/   .card-image.pull-left
+/     img src=card.editions.last.image_url
+
+/   .card-details.pull-left
+/     header.group
+/       h3.card-cost.pull-right = card.mana_cost
+/       h3.card-name = card.name
+
+/     footer.group
+/       h3.card-stats.pull-right = "#{ card.power } / #{ card.toughness }"
+/       h4.card-type = "#{ card.card_type }#{ " — " << card.subtype if card.subtype.present? }"
+
+
+= javascript_include_tag "decks"
