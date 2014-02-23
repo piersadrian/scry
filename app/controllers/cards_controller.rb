@@ -15,9 +15,9 @@ class CardsController < ApplicationController
     scope = Card.includes(:editions).limit(params[:num].presence || 5)
 
     @cards = if params[:name]
-      scope.name_like(params[:name])
+      scope.with_name(params[:name])
     elsif params[:text]
-      scope.text_like(params[:text])
+      scope.with_text(params[:text])
     end
 
     render json: @cards.map {|c| c.attributes.merge(editions: c.editions) }
