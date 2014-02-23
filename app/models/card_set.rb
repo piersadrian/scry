@@ -14,7 +14,7 @@
 
 class CardSet < ActiveRecord::Base
 
-  STANDARD_CODES = %W(DGM GTC RTR THS M14)
+  STANDARD_CODES = %W(DGM GTC RTR THS M14 BNG)
 
   belongs_to :block
   has_many :editions
