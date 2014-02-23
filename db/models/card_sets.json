@@ -4,1239 +4,1249 @@
     "name": "Tenth Edition",
     "code": "10E",
     "block_id": 1,
-    "release_date": "2007-07-13T00:00:00.000Z",
+    "release_date": "2007-07-13 00:00:00 UTC",
     "description": "Tenth Edition (10th Edition) is a 'Core Set' for the collectible trading card game Magic: The Gathering. It was released on July 13, 2007, replacing Ninth Edition as the core set of cards for standard tournament play. The symbol for Tenth Edition is the Roman numeral 'X'.  As part of their 'Selecting Tenth Edition' promotion, Wizards of the Coast gave fans the chance to manage a part of the set's brand. The results gave the Roman numeral 'X' over the number '10', along with many other card, art, and flavor text choices.\n  Tenth Edition was the first core set since Beta to be printed with black-bordered cards, rather than white-bordered ones. Tenth Edition is also the first core set to include legendary creatures (two of each color), bringing back flavorful relics of Magic's past such as Squee, Goblin Nabob, and Kamahl, Pit Fighter",
-    "created_at": "2013-11-11T17:41:18.400Z",
-    "updated_at": "2013-11-11T17:41:18.400Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 2,
     "name": "Unlimited Edition",
     "code": "2ED",
     "block_id": 1,
-    "release_date": "1993-12-01T00:00:00.000Z",
+    "release_date": "1993-12-01 00:00:00 UTC",
     "description": "Unlimited Edition was the second Magic: The Gathering \n  set. It was released on December 1, 1993, after Beta had sold out as quickly \n  as Alpha had; this time the run was 40 million cards, the largest yet. It \n  contains exactly the same cards as Beta, though with white borders instead of \n  black, setting the precedent for all successive printings of the basic set, \n  until the 2007 release of Tenth Edition, which returned to black borders.",
-    "created_at": "2013-11-11T17:41:18.406Z",
-    "updated_at": "2013-11-11T17:41:18.406Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 3,
     "name": "Revised Edition",
     "code": "3ED",
     "block_id": 1,
-    "release_date": "1994-04-01T00:00:00.000Z",
+    "release_date": "1994-04-01 00:00:00 UTC",
     "description": "The Revised Edition of Magic: The Gathering (also simply known as Revised) was the sixth set and third core set released for the game. Like previous core sets, it had no expansion symbol. Revised Edition cards are white-bordered and generally known for their washed-out look. The set was released in April 1994 and contained 306 cards. It was the first base set to contain cards from black-bordered sets other than Alpha and Beta",
-    "created_at": "2013-11-11T17:41:18.411Z",
-    "updated_at": "2013-11-11T17:41:18.411Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 4,
     "name": "Fourth Edition",
     "code": "4ED",
     "block_id": 1,
-    "release_date": "1995-04-01T00:00:00.000Z",
+    "release_date": "1995-04-01 00:00:00 UTC",
     "description": "The Fourth Edition of Magic: The Gathering was the tenth set released for the game, and the fourth base set (or \"core set\"). The set was released in April 1995 and contained 378 cards. It was the first set to reprint cards from the expansions Legends and The Dark. Fourth Edition cards have white borders. The set has no expansion symbol.\n  Fourth Edition was the first Magic set to be printed in Asian languages. It was published in English, French, German, Italian, and as a first for a Magic set in Japanese, traditional Chinese, Korean, Spanish, and Portuguese, which was printed primarily for the Brazilian market. Korean and Chinese Fourth Edition cards have been made only with black borders while Japanese, Portuguese, and Spanish cards exist with white and black borders.",
-    "created_at": "2013-11-11T17:41:18.414Z",
-    "updated_at": "2013-11-11T17:41:18.414Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 5,
     "name": "Fifth Dawn",
     "code": "5DN",
     "block_id": 2,
-    "release_date": "2004-06-04T00:00:00.000Z",
+    "release_date": "2004-06-04 00:00:00 UTC",
     "description": "Fifth Dawn is a Magic: The Gathering expansion set which was released in May 2004. It is the third and final set of the Mirrodin block. There are 165 cards overall, and like the rest of Mirrodin, an unusually large number of them are artifacts. However, Fifth Dawn adds a new twist to artifact theme of Mirrodin and Darksteel: it encourages using colored mana for playing artifact spells, via the Sunburst mechanic (see below). Fifth Dawn 's expansion symbol is a small image of Helm of Kaldra, a card from this set.\n  Fifth Dawn introduced an enhanced design for artifact cards, which uses a darker inner border to help players distinguish artifacts from white cards. Fifth Dawn theme decks contained a few reprints from Mirrodin and Darksteel with the improved card face.\n  The name Fifth Dawn is derived from the plane's five suns. Each sun is associated with a color of mana and the green sun, which has long been absent, returns to the sky as part of this set's storyline.",
-    "created_at": "2013-11-11T17:41:18.423Z",
-    "updated_at": "2013-11-11T17:41:18.423Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 6,
     "name": "Fifth Edition",
     "code": "5ED",
     "block_id": 1,
-    "release_date": "1997-03-24T00:00:00.000Z",
+    "release_date": "1997-03-24 00:00:00 UTC",
     "description": "The Fifth Edition was the seventeenth Magic: The Gathering set and fifth core set, a revision of the base set released in March 1997. It contained 449 cards, counting multiple illustrations of basic lands, making it the largest card set in the game's history. It was the first edition of the core set to reprint cards from Fallen Empires, Ice Age, and Homelands.",
-    "created_at": "2013-11-11T17:41:18.426Z",
-    "updated_at": "2013-11-11T17:41:18.426Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 7,
     "name": "Classic Sixth Edition",
     "code": "6ED",
     "block_id": 1,
-    "release_date": "1999-04-28T00:00:00.000Z",
+    "release_date": "1999-04-28 00:00:00 UTC",
     "description": "The Sixth Edition core set of Magic: The Gathering, also known as Classic, was released on April 27, 1999. It contains 350 cards, with reprints of cards from previous core sets, as well as some new reprints from expansion sets through the Weatherlight expansion.",
-    "created_at": "2013-11-11T17:41:18.432Z",
-    "updated_at": "2013-11-11T17:41:18.432Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 8,
     "name": "Seventh Edition",
     "code": "7ED",
     "block_id": 1,
-    "release_date": "2001-04-11T00:00:00.000Z",
+    "release_date": "2001-04-11 00:00:00 UTC",
     "description": "7th Edition was a Magic: The Gathering set printed in 2001. It is the only core set since Alpha to have introduced all-new art for every card. A white-bordered set, it was first available on April 2, 2001. The set contained 350 cards. The expansion symbol was a stylized 7.",
-    "created_at": "2013-11-11T17:41:18.437Z",
-    "updated_at": "2013-11-11T17:41:18.437Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 9,
     "name": "Eighth Edition",
     "code": "8ED",
     "block_id": 1,
-    "release_date": "2003-07-28T00:00:00.000Z",
+    "release_date": "2003-07-28 00:00:00 UTC",
     "description": "Eighth Edition (8th Edition) or Core Set was the standard base set for the collectible trading card game, Magic: The Gathering from its release in 2003 until 9th Edition's release in 2005. Its expansion symbol is the number 8 with 3 cards behind it.",
-    "created_at": "2013-11-11T17:41:18.442Z",
-    "updated_at": "2013-11-11T17:41:18.442Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 10,
     "name": "Ninth Edition",
     "code": "9ED",
     "block_id": 1,
-    "release_date": "2005-07-29T00:00:00.000Z",
+    "release_date": "2005-07-29 00:00:00 UTC",
     "description": "Ninth Edition (9th Edition) or Core Set is the fourth latest base set for the collectible trading card game, Magic: The Gathering.",
-    "created_at": "2013-11-11T17:41:18.449Z",
-    "updated_at": "2013-11-11T17:41:18.449Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 11,
     "name": "Shards of Alara",
     "code": "ALA",
     "block_id": 3,
-    "release_date": "2008-10-03T00:00:00.000Z",
+    "release_date": "2008-10-03 00:00:00 UTC",
     "description": "Shards of Alara is an expansion set from the trading card game Magic: The Gathering. It is the 47th limited-edition expansion set for Magic and was released on October 3, 2008.[3] On Magic Online Shards was released on October 20, 2008.",
-    "created_at": "2013-11-11T17:41:18.456Z",
-    "updated_at": "2013-11-11T17:41:18.456Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 12,
     "name": "Alliances",
     "code": "ALL",
     "block_id": 4,
-    "release_date": "1996-05-18T00:00:00.000Z",
+    "release_date": "1996-05-18 00:00:00 UTC",
     "description": "Alliances is the eighth Magic expansion and the second set in the Ice Age block. It was originally the third set but it became the second when Homelands was removed from the block to make place for Coldsnap.",
-    "created_at": "2013-11-11T17:41:18.463Z",
-    "updated_at": "2013-11-11T17:41:18.463Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 13,
     "name": "Apocalypse",
     "code": "APC",
     "block_id": 5,
-    "release_date": "2001-06-04T00:00:00.000Z",
+    "release_date": "2001-06-04 00:00:00 UTC",
     "description": "Apocalypse is the name of a Magic: The Gathering expansion set, released in June 2001. It is the third set of the Invasion Block.",
-    "created_at": "2013-11-11T17:41:18.471Z",
-    "updated_at": "2013-11-11T17:41:18.471Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 14,
     "name": "Alara Reborn",
     "code": "ARB",
     "block_id": 3,
-    "release_date": "2009-04-30T00:00:00.000Z",
+    "release_date": "2009-04-30 00:00:00 UTC",
     "description": "Alara Reborn (codenamed Scissors) is a Magic: The Gathering expansion set which was released on April 30, 2009. It includes 145 cards. To take advantage of International Workers' Day/Labor Day in Europe, it was released on a Thursday instead of the traditional Friday. The pre-release date was April 24, 2009.",
-    "created_at": "2013-11-11T17:41:18.475Z",
-    "updated_at": "2013-11-11T17:41:18.475Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 15,
     "name": "Archenemy",
     "code": "ARC",
     "block_id": 6,
-    "release_date": "2010-06-18T00:00:00.000Z",
+    "release_date": "2010-06-18 00:00:00 UTC",
     "description": "Archenemy is a variant of Magic: The Gathering with an emphasis on one vs. many multiplayer games. The set utilizes new oversized Scheme cards. Four game packs were released on June 18th, 2010: Assemble the Doomsday Machine, Bring About the Undead Apocalypse, Scorch the World with Dragonfire, Trample Civilization Underfoot. The cards within each preconstructed deck have all been reprinted from various Magic sets, with the exception of one card per deck, that is a new card from Magic 2011. All of the cards are black bordered and tournament legal in their original formats.",
-    "created_at": "2013-11-11T17:41:18.481Z",
-    "updated_at": "2013-11-11T17:41:18.481Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 16,
     "name": "Arabian Nights",
     "code": "ARN",
     "block_id": 6,
-    "release_date": "1993-12-01T00:00:00.000Z",
+    "release_date": "1993-12-01 00:00:00 UTC",
     "description": "Arabian Nights was the fourth Magic: The Gathering set \n  and the first expansion set. The set is composed entirely of new cards. The \n  setting of Arabian Nights is inspired by the themes and characters of the \n  Thousand and One Arabian Nights with some of the characters and places coming \n  directly from these tales. Arabian Nights is the only regular Magic expansion \n  based on real-world fiction. All other sets with the exception of the Portal \n  Three Kingdoms introductory set are based on fiction created exclusively for \n  the game. The expansion symbol of Arabian Nights is a scimitar.",
-    "created_at": "2013-11-11T17:41:18.485Z",
-    "updated_at": "2013-11-11T17:41:18.485Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 17,
     "name": "Anthologies",
     "code": "ATH",
     "block_id": 6,
-    "release_date": "1998-11-01T00:00:00.000Z",
+    "release_date": "1998-11-01 00:00:00 UTC",
     "description": "Anthologies was a box set, the second compilation set, from the card game Magic: The Gathering. It was printed in November 1998 to celebrate the 5th anniversary of Magic. It featured cards from Alpha through Urza's Saga. The print run was unknown. When it was first printed, Anthologies sold for around $20.00 MSRP, but prices have risen since. As the cards have white borders and standard backs, they are tournament-legal.\n  Unlike Chronicles, an expansion, but like other box sets, such as Battle Royale or Duel Decks: Jace vs. Chandra, the reprinted cards did not count as current product, and thus were only legal in formats which allowed the original cards being reprinted to be used, and were not automatically legal in Standard at the time the product was available",
-    "created_at": "2013-11-11T17:41:18.490Z",
-    "updated_at": "2013-11-11T17:41:18.490Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 18,
     "name": "Antiquities",
     "code": "ATQ",
     "block_id": 6,
-    "release_date": "1994-03-01T00:00:00.000Z",
+    "release_date": "1994-03-01 00:00:00 UTC",
     "description": "Antiquities was the fifth Magic: The Gathering set and the second expansion set. It was the first set to have an original backstory that explores the mythos of the Magic universe (see Magic: The Gathering storylines). The story is primarily about the brothers Urza and Mishra who are inseparable at first, but become sworn enemies over the finding of two power stones. Trying to get hold of the other's stone they eventually lay waste to the whole continent of Terisiare. The set was created by the group of students at the University of Pennsylvania that had helped Richard Garfield design the original game. Mechanically Antiquities revolves around artifacts. Only 35 of the 85 different cards are colored, the remaining 50 cards being artifacts and lands. The expansion symbol for Antiquities was an anvil.",
-    "created_at": "2013-11-11T17:41:18.494Z",
-    "updated_at": "2013-11-11T17:41:18.494Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 19,
     "name": "Avacyn Restored",
     "code": "AVR",
     "block_id": 7,
-    "release_date": "2012-05-04T00:00:00.000Z",
+    "release_date": "2012-05-04 00:00:00 UTC",
     "description": "Avacyn Restored is a Magic: The Gathering expansion set that was released May 4, 2012.[1] It is the third set of the Innistrad block. The tagline for the set is 'Ignite the Dawn'.\n  An animated trailer for Avacyn Restored has been released in English and Japanese.",
-    "created_at": "2013-11-11T17:41:18.503Z",
-    "updated_at": "2013-11-11T17:41:18.503Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 20,
     "name": "Betrayers of Kamigawa",
     "code": "BOK",
     "block_id": 8,
-    "release_date": "2005-02-04T00:00:00.000Z",
+    "release_date": "2005-02-04 00:00:00 UTC",
     "description": "Betrayers of Kamigawa (Betrayers or BoK) is the name of \n  the Magic: The Gathering expansion set which came out in February 2005, and \n  is the second set in the Kamigawa block. It contains 165 cards. The set's \n  story is inspired by Japanese medieval myths and revolves around the battle \n  between spirits (kami) and living beings. The set's expansion symbol is a \n  shuriken, or ninja throwing star.",
-    "created_at": "2013-11-11T17:41:18.511Z",
-    "updated_at": "2013-11-11T17:41:18.511Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 21,
     "name": "Battle Royale Box Set",
     "code": "BRB",
     "block_id": 6,
-    "release_date": "1999-11-12T00:00:00.000Z",
+    "release_date": "1999-11-12 00:00:00 UTC",
     "description": "Battle Royale was a Magic: The Gathering boxed set, the third compilation set, released in November 1999 as a collection of cards emphasizing the multiplayer aspect of the game. Most of the cards included are ones that can affect multiple opponents. This promotion included cards from all different sets that existed previous to it. The cards still retained their original expansion symbols although they were printed with white borders, which was the standard for reprinted Magic: The Gathering cards of 'core sets' until the 2007 release of Tenth Edition. These are the only sets that are printed with white borders (which started with Unlimited.) Another interesting aspect is that colored expansions symbols were added to the cards that didn’t have them previously (namely cards from Tempest, Portal: Second Age, Stronghold and Ice Age.)\n  The set included 160 cards built into four different two-color theme decks which are 40 cards each: Spirit Gale (blue / white), Chargoyf (green / red), The Deluge (green / white), and Cinder Heart (black / red).",
-    "created_at": "2013-11-11T17:41:18.516Z",
-    "updated_at": "2013-11-11T17:41:18.516Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 22,
     "name": "Beatdown Box Set",
     "code": "BTD",
     "block_id": 6,
-    "release_date": "2000-12-01T00:00:00.000Z",
+    "release_date": "2000-12-01 00:00:00 UTC",
     "description": "Beatdown is a box set for the card game Magic: The Gathering, and the fourth compilation set. It was created for special reprint purposes only and was not legal in Standard at the time of its release. Beatdown was released as a pair of preconstructed decks combined with accessories, unlike the normal distribution of Magic cards in randomized packs. At the time of release it sold for around $30.00 MSRP. Alternate art was done for four cards: Sengir Vampire, Erhnam Djinn, Ball Lightning, and Clockwork Beast. The set is white-bordered, and the expansion symbol is a mace. There are no White cards in the set.",
-    "created_at": "2013-11-11T17:41:18.520Z",
-    "updated_at": "2013-11-11T17:41:18.520Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 23,
     "name": "Commander (2013 Edition)",
     "code": "C13",
     "block_id": 9,
-    "release_date": "2013-11-01T00:00:00.000Z",
+    "release_date": "2013-11-01 00:00:00 UTC",
     "description": "Commander is a series of five 100-card, three color Magic: the Gathering decks, meant as a supplement to the variant format initially known as 'Elder Dragon Highlander (EDH)'. Each deck is based around a legendary creature, called a 'Commander' or 'General'. No card other than basic lands appear more than once in each deck, and each deck contains three foil oversized legendary creature cards. This set is notable in that it is the first set printed outside of the normal booster pack expansions to have functionally new cards. There are 51 new cards, made specifically for multi-player games, featured in Commander.",
-    "created_at": "2013-11-11T17:41:18.527Z",
-    "updated_at": "2013-11-11T17:41:18.527Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 24,
     "name": "Champions of Kamigawa",
     "code": "CHK",
     "block_id": 8,
-    "release_date": "2004-10-01T00:00:00.000Z",
+    "release_date": "2004-10-01 00:00:00 UTC",
     "description": "Champions of Kamigawa (Champions or CHK) is the name of \n  the Magic: The Gathering expansion set released October 1, 2004. The first set\n  of the Kamigawa block, it set the stage for the block's story, which was \n  inspired by Japanese myths and revolves around the battle between spirits \n  (kami) and living beings.\n  The set's expansion symbol is a torii, the entrance to the Shinto temple. This\n  is especially important, as Kamigawa's original idea was summed up as 'Shinto \n  gone horribly wrong': Kami warring against their human worshippers.",
-    "created_at": "2013-11-11T17:41:18.532Z",
-    "updated_at": "2013-11-11T17:41:18.532Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 25,
     "name": "Chronicles",
     "code": "CHR",
     "block_id": 6,
-    "release_date": "1995-07-01T00:00:00.000Z",
+    "release_date": "1995-07-01 00:00:00 UTC",
     "description": "Chronicles was the twelfth Magic: The Gathering set, and the first compilation set, released in July 1995 by Wizards of the Coast. The set is one of two sets that have been sold in twelve-card booster packs, the other having been Alliances.",
-    "created_at": "2013-11-11T17:41:18.536Z",
-    "updated_at": "2013-11-11T17:41:18.536Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 26,
     "name": "Commander's Arsenal",
     "code": "CM1",
     "block_id": 9,
-    "release_date": "2012-11-02T00:00:00.000Z",
+    "release_date": "2012-11-02 00:00:00 UTC",
     "description": "Commander's Arsenal is a set 18 premium foil cards, 10 oversized premium foil cards, and a couple of accessories. The set was release on November 2, 2012. Each card was a reprint of a card often found in Commander or EDH decks.",
-    "created_at": "2013-11-11T17:41:18.541Z",
-    "updated_at": "2013-11-11T17:41:18.541Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 27,
     "name": "Commander",
     "code": "CMD",
     "block_id": 9,
-    "release_date": "2011-06-17T00:00:00.000Z",
+    "release_date": "2011-06-17 00:00:00 UTC",
     "description": "The _Magic: The Gathering -- Commander_ release consists \n  of five different decks: \"Heavenly Inferno,\" \"Mirror Mastery,\" \"Counterpunch,\" \n  \"Political Puppets,\" and \"Devour for Power.\" Each deck includes a 100-card \n  singleton deck and three oversized foil commander cards.",
-    "created_at": "2013-11-11T17:41:18.545Z",
-    "updated_at": "2013-11-11T17:41:18.545Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 28,
     "name": "Conflux",
     "code": "CON",
     "block_id": 3,
-    "release_date": "2009-02-06T00:00:00.000Z",
+    "release_date": "2009-02-06 00:00:00 UTC",
     "description": "Conflux is a Magic: The Gathering expansion set, released on February 6, 2009. It is the 48th limited-edition expansion set for Magic and includes 145 cards.",
-    "created_at": "2013-11-11T17:41:18.549Z",
-    "updated_at": "2013-11-11T17:41:18.549Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 29,
     "name": "Coldsnap",
     "code": "CSP",
     "block_id": 4,
-    "release_date": "2006-07-21T00:00:00.000Z",
+    "release_date": "2006-07-21 00:00:00 UTC",
     "description": "Coldsnap is the thirty-ninth Magic expansion and the third set in the Ice Age block, taking the place of Homelands.",
-    "created_at": "2013-11-11T17:41:18.553Z",
-    "updated_at": "2013-11-11T17:41:18.553Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 30,
     "name": "Duel Decks: Jace vs. Chandra",
     "code": "DD2",
     "block_id": 10,
-    "release_date": "2008-11-07T00:00:00.000Z",
+    "release_date": "2008-11-07 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.561Z",
-    "updated_at": "2013-11-11T17:41:18.561Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 31,
     "name": "Duel Decks: Divine vs. Demonic",
     "code": "DDC",
     "block_id": 10,
-    "release_date": "2009-04-10T00:00:00.000Z",
+    "release_date": "2009-04-10 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.566Z",
-    "updated_at": "2013-11-11T17:41:18.566Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 32,
     "name": "Duel Decks: Garruk vs. Liliana",
     "code": "DDD",
     "block_id": 10,
-    "release_date": "2009-10-30T00:00:00.000Z",
+    "release_date": "2009-10-30 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.570Z",
-    "updated_at": "2013-11-11T17:41:18.570Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 33,
     "name": "Duel Decks: Phyrexia vs. the Coalition",
     "code": "DDE",
     "block_id": 10,
-    "release_date": "2010-03-19T00:00:00.000Z",
+    "release_date": "2010-03-19 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.575Z",
-    "updated_at": "2013-11-11T17:41:18.575Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 34,
     "name": "Duel Decks: Elspeth vs. Tezzeret",
     "code": "DDF",
     "block_id": 10,
-    "release_date": "2010-09-03T00:00:00.000Z",
+    "release_date": "2010-09-03 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.580Z",
-    "updated_at": "2013-11-11T17:41:18.580Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 35,
     "name": "Duel Decks: Knights vs. Dragons",
     "code": "DDG",
     "block_id": 10,
-    "release_date": "2011-04-01T00:00:00.000Z",
+    "release_date": "2011-04-01 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.585Z",
-    "updated_at": "2013-11-11T17:41:18.585Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 36,
     "name": "Duel Decks: Ajani vs. Nicol Bolas",
     "code": "DDH",
     "block_id": 10,
-    "release_date": "2011-09-02T00:00:00.000Z",
+    "release_date": "2011-09-02 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.589Z",
-    "updated_at": "2013-11-11T17:41:18.589Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 37,
     "name": "Duel Decks: Venser vs. Koth",
     "code": "DDI",
     "block_id": 10,
-    "release_date": "2012-03-30T00:00:00.000Z",
+    "release_date": "2012-03-30 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.594Z",
-    "updated_at": "2013-11-11T17:41:18.594Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 38,
     "name": "Duel Decks: Izzet vs. Golgari",
     "code": "DDJ",
     "block_id": 10,
-    "release_date": "2012-09-07T00:00:00.000Z",
+    "release_date": "2012-09-07 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.599Z",
-    "updated_at": "2013-11-11T17:41:18.599Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 39,
     "name": "Duel Decks: Sorin vs. Tibalt",
     "code": "DDK",
     "block_id": 10,
-    "release_date": "2013-03-15T00:00:00.000Z",
+    "release_date": "2013-03-15 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.603Z",
-    "updated_at": "2013-11-11T17:41:18.603Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 40,
     "name": "Duel Decks: Heroes vs. Monsters",
     "code": "DDL",
     "block_id": 10,
-    "release_date": "2013-09-06T00:00:00.000Z",
+    "release_date": "2013-09-06 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.607Z",
-    "updated_at": "2013-11-11T17:41:18.607Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 41,
     "name": "Dragon's Maze",
     "code": "DGM",
     "block_id": 11,
-    "release_date": "2013-05-03T00:00:00.000Z",
+    "release_date": "2013-05-03 00:00:00 UTC",
     "description": "Dragon's Maze is a Magic: The Gathering expansion set that was released on May 3, 2013. It is the third set of the Return to Ravnica block and contains 156 cards. All ten guilds of Ravnica will be included in the set. As in the original Ravnica block, Dragon's Maze focuses on multi-color cards. The set also marks the culmination of the Izzet League's research into the depths of Ravnica, the eponymous Dragon's Maze -- A path that treads all 10 guild gates in order to find and activate an energy source of immense power which is enough to subjugate and control all of the guilds. The Izzet propose a challenge in which each guild selects a champion in order to navigate and conquer the maze and subsequently the other guilds. Each Champion will have to traverse the maze, and they will have to deal with other guilds' attempts to halt their advance.",
-    "created_at": "2013-11-11T17:41:18.613Z",
-    "updated_at": "2013-11-11T17:41:18.613Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 42,
     "name": "Dissension",
     "code": "DIS",
     "block_id": 12,
-    "release_date": "2006-05-05T00:00:00.000Z",
+    "release_date": "2006-05-05 00:00:00 UTC",
     "description": "Dissension is the 60th Magic: The Gathering set, 38th expert level set, and the third and final set in the Ravnica Block, released on May 5, 2006.",
-    "created_at": "2013-11-11T17:41:18.620Z",
-    "updated_at": "2013-11-11T17:41:18.620Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 43,
     "name": "Dark Ascension",
     "code": "DKA",
     "block_id": 7,
-    "release_date": "2012-02-03T00:00:00.000Z",
+    "release_date": "2012-02-03 00:00:00 UTC",
     "description": "Dark Ascension is a Magic: The Gathering expansion set released February 3, 2012. It is the second set of the Innistrad block. The tagline for the set is 'Command the Night'. It was first revealed at the 2011 Comic-Con in San Diego, California.",
-    "created_at": "2013-11-11T17:41:18.625Z",
-    "updated_at": "2013-11-11T17:41:18.625Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 44,
     "name": "Deckmasters: Garfield vs. Finkel",
     "code": "DKM",
     "block_id": 6,
-    "release_date": "2001-12-01T00:00:00.000Z",
+    "release_date": "2001-12-01 00:00:00 UTC",
     "description": "Deckmasters: Garfield vs. Finkel, usually known as simply Deckmasters, was a Magic: the Gathering set created in 2001 featuring copies of the decks used in a promotional match between Richard Garfield, the creator of the card game, and Jon Finkel, a Magic World Champion. Two decks were included in the set, a red/green deck used by Richard Garfield, and a red/black deck that was played by Finkel. It is the fifth compilation set.",
-    "created_at": "2013-11-11T17:41:18.631Z",
-    "updated_at": "2013-11-11T17:41:18.631Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 45,
     "name": "Duels of the Planeswalkers",
     "code": "DPA",
     "block_id": 13,
-    "release_date": "2010-06-04T00:00:00.000Z",
+    "release_date": "2010-06-04 00:00:00 UTC",
     "description": "Magic: The Gathering – Duels of the Planeswalkers (DP) is a video game based on the popular collectible card game of the same name, published by Wizards of the Coast. It was released on June 17, 2009.",
-    "created_at": "2013-11-11T17:41:18.640Z",
-    "updated_at": "2013-11-11T17:41:18.640Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 46,
     "name": "From the Vault: Dragons",
     "code": "DRB",
     "block_id": 14,
-    "release_date": "2008-08-29T00:00:00.000Z",
+    "release_date": "2008-08-29 00:00:00 UTC",
     "description": "From the Vault: Dragons was released August 29, 2008.[1] It contained 15 cards, all of which were Dragons, and one of which was a pre-release of a card in the Shards of Alara set.",
-    "created_at": "2013-11-11T17:41:18.649Z",
-    "updated_at": "2013-11-11T17:41:18.649Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 47,
     "name": "The Dark",
     "code": "DRK",
     "block_id": 6,
-    "release_date": "1994-08-01T00:00:00.000Z",
+    "release_date": "1994-08-01 00:00:00 UTC",
     "description": "The Dark was the eighth Magic: The Gathering set and the fourth expansion to the game, released in August 1994. The set continued the story begun in Antiquities and recounted the aftermath of the events of that set. The 119-card set had a dark, sacrificial theme, though unlike its predecessor Legends it did not introduce any new keywords. Mechanically the set has no clear focus, experimenting in minor quantities with sacrifice and a tribal subtheme. The expansion symbol for the The Dark is an eclipsed moon.",
-    "created_at": "2013-11-11T17:41:18.654Z",
-    "updated_at": "2013-11-11T17:41:18.654Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 48,
     "name": "Darksteel",
     "code": "DST",
     "block_id": 2,
-    "release_date": "2004-02-06T00:00:00.000Z",
+    "release_date": "2004-02-06 00:00:00 UTC",
     "description": "Darksteel is an expansion set for the game Magic: The Gathering, the second in the Mirrodin block of sets that also features Mirrodin and Fifth Dawn. It was released in February 2004, containing 165 cards. Darksteel continued the themes established in Mirrodin: Artifact cards, equipment and the mechanics that debuted. The expansion symbol for the set is the miniature version of the stylized Shield of Kaldra.\n  Darksteel featured the powerful single card drawing engine masked as the infamous equipment Skullclamp. When it was eventually banned during block constructed a few months after Darksteel's release, Skullclamp was the first to have been banned in block constructed since Mercadian Masques' Rishadan Port",
-    "created_at": "2013-11-11T17:41:18.659Z",
-    "updated_at": "2013-11-11T17:41:18.659Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 49,
     "name": "Eventide",
     "code": "EVE",
     "block_id": 15,
-    "release_date": "2008-07-25T00:00:00.000Z",
+    "release_date": "2008-07-25 00:00:00 UTC",
     "description": "Eventide is an expansion set, codenamed \"Doughnut\", from the trading card game Magic: The Gathering. It was released on July 25, 2008. The pre-release events for this set were held on July 12–13, 2008.",
-    "created_at": "2013-11-11T17:41:18.666Z",
-    "updated_at": "2013-11-11T17:41:18.666Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 50,
     "name": "Duel Decks: Elves vs. Goblins",
     "code": "EVG",
     "block_id": 10,
-    "release_date": "2007-11-16T00:00:00.000Z",
+    "release_date": "2007-11-16 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.671Z",
-    "updated_at": "2013-11-11T17:41:18.671Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 51,
     "name": "Exodus",
     "code": "EXO",
     "block_id": 16,
-    "release_date": "1998-06-15T00:00:00.000Z",
+    "release_date": "1998-06-15 00:00:00 UTC",
     "description": "Exodus was the 22nd Magic: The Gathering set, fourteenth expert level set, and the third and final set in the Rath Block, released on 15 June 1998. Its expansion symbol is a bridge. On 7 December 2009 Exodus was released on Magic: The Gathering Online.",
-    "created_at": "2013-11-11T17:41:18.678Z",
-    "updated_at": "2013-11-11T17:41:18.678Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 52,
     "name": "Fallen Empires",
     "code": "FEM",
     "block_id": 6,
-    "release_date": "1994-11-01T00:00:00.000Z",
+    "release_date": "1994-11-01 00:00:00 UTC",
     "description": null,
-    "created_at": "2013-11-11T17:41:18.682Z",
-    "updated_at": "2013-11-11T17:41:18.682Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 53,
     "name": "Future Sight",
     "code": "FUT",
     "block_id": 6,
-    "release_date": "2007-05-04T00:00:00.000Z",
+    "release_date": "2007-05-04 00:00:00 UTC",
     "description": "Future Sight is an expansion set, codenamed \"Pop\", for the trading card game Magic: The Gathering. The set was released worldwide on May 4, 2007. The pre-release events for this set were held on April 21 and April 22, 2007.",
-    "created_at": "2013-11-11T17:41:18.686Z",
-    "updated_at": "2013-11-11T17:41:18.686Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 54,
     "name": "Guildpact",
     "code": "GPT",
     "block_id": 12,
-    "release_date": "2006-02-03T00:00:00.000Z",
+    "release_date": "2006-02-03 00:00:00 UTC",
     "description": "Guildpact is a Magic: The Gathering set, second in the Ravnica Block. Guildpact was released on February 3, 2006",
-    "created_at": "2013-11-11T17:41:18.690Z",
-    "updated_at": "2013-11-11T17:41:18.690Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 55,
     "name": "Gatecrash",
     "code": "GTC",
     "block_id": 11,
-    "release_date": "2013-02-01T00:00:00.000Z",
+    "release_date": "2013-02-01 00:00:00 UTC",
     "description": "Gatecrash is a Magic: The Gathering expansion set released February 1, 2013. It is the second set of the Return to Ravnica block. The tagline for the set is 'Fight For Your Guild' and it contains 249 cards (101 commons, 80 uncommons, 53 rares, 15 mythic rares). Gatecrash focuses on five of the returning guilds; the Boros Legion, House Dimir, The Orzhov Syndicate, The Gruul Clans, and The Simic Combine. As in the original Ravnica block, Gatecrash focuses on multicolor cards. The storyline told deals with the rise of another faction that does not ally with any of the Guilds. This group is referred to as the 'Gateless'. The Gateless was referred to in the first set in certain cards as well. Another storyline has the tension between the guilds rise, and their attempts to thwart one another.",
-    "created_at": "2013-11-11T17:41:18.694Z",
-    "updated_at": "2013-11-11T17:41:18.694Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 56,
     "name": "Premium Deck Series: Slivers",
     "code": "H09",
     "block_id": 17,
-    "release_date": "2009-11-20T00:00:00.000Z",
+    "release_date": "2009-11-20 00:00:00 UTC",
     "description": "Premium Deck Series: Slivers was released November 20, 2009. All creatures in this deck were of the Sliver subtype (including the mythic-rare Sliver Overlord).",
-    "created_at": "2013-11-11T17:41:18.702Z",
-    "updated_at": "2013-11-11T17:41:18.702Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 57,
     "name": "Homelands",
     "code": "HML",
     "block_id": 6,
-    "release_date": "1995-10-01T00:00:00.000Z",
+    "release_date": "1995-10-01 00:00:00 UTC",
     "description": "Homelands was the thirteenth Magic: The Gathering set and seventh expert level set, released in October 1995. It was considered to be part of the Ice Age block until the announcement of Coldsnap in October 2005.",
-    "created_at": "2013-11-11T17:41:18.707Z",
-    "updated_at": "2013-11-11T17:41:18.707Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 58,
     "name": "Planechase",
     "code": "HOP",
     "block_id": 18,
-    "release_date": "2009-09-04T00:00:00.000Z",
+    "release_date": "2009-09-04 00:00:00 UTC",
     "description": "Planechase is a variant of Magic: The Gathering with an emphasis on multi-player games. The set utilizes new oversized Plane cards, cards that are based on various locations (Planes) within the Magic multiverse, to modify the rules of gameplay.",
-    "created_at": "2013-11-11T17:41:18.716Z",
-    "updated_at": "2013-11-11T17:41:18.716Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 59,
     "name": "Ice Age",
     "code": "ICE",
     "block_id": 4,
-    "release_date": "1995-06-01T00:00:00.000Z",
+    "release_date": "1995-06-01 00:00:00 UTC",
     "description": "ce Age is the eleventh Magic set and the sixth expansion set, released in June 1995. Set in the years from 450 to 2934 AR, the set describes a world set in perpetual winter due to the events in Antiquities.",
-    "created_at": "2013-11-11T17:41:18.721Z",
-    "updated_at": "2013-11-11T17:41:18.721Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 60,
     "name": "Invasion",
     "code": "INV",
     "block_id": 5,
-    "release_date": "2000-10-02T00:00:00.000Z",
+    "release_date": "2000-10-02 00:00:00 UTC",
     "description": "Invasion is the 21st expert level set, and the first set in the Invasion block of cards of Magic: The Gathering. The rest of the block is Planeshift and Apocalypse. It contains 350 cards.",
-    "created_at": "2013-11-11T17:41:18.725Z",
-    "updated_at": "2013-11-11T17:41:18.725Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 61,
     "name": "Innistrad",
     "code": "ISD",
     "block_id": 7,
-    "release_date": "2011-09-30T00:00:00.000Z",
+    "release_date": "2011-09-30 00:00:00 UTC",
     "description": "nnistrad is a Magic: The Gathering expansion set released September 30, 2011.[1] It is the first set of the Innistrad block. Innistrad is a 'top-down' designed set based around Gothic horror. The set's mechanics and effects are mainly based around graveyard themes, with a minor focus on tribal themes. The tagline for the set is 'Horror Lurks Within'. It has 264 cards.",
-    "created_at": "2013-11-11T17:41:18.730Z",
-    "updated_at": "2013-11-11T17:41:18.730Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 62,
     "name": "Judgment",
     "code": "JUD",
     "block_id": 19,
-    "release_date": "2002-05-27T00:00:00.000Z",
+    "release_date": "2002-05-27 00:00:00 UTC",
     "description": "Judgment is the third set in the Odyssey Block for the collectible card game Magic: The Gathering.\n  This is the second expansion set made that did not have an equal number cards from each color. The first expansion with such an imbalance was its predecessor, the Torment expansion set, which was skewed towards the color black. The Judgment expansion set was meant to balance this, and skews towards green and white, black's enemy colors. The expansion symbol for Judgment was a scale.\n  The set contains 33 Green cards, 33 White cards, 27 Red cards, 27 Blue cards and 16 Black cards. All multicolored cards in the set are both green and white.",
-    "created_at": "2013-11-11T17:41:18.737Z",
-    "updated_at": "2013-11-11T17:41:18.737Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 63,
     "name": "Limited Edition Alpha",
     "code": "LEA",
     "block_id": 1,
-    "release_date": "1993-08-05T00:00:00.000Z",
+    "release_date": "1993-08-05 00:00:00 UTC",
     "description": "The name Alpha refers to the first print run of the \n  original Magic: The Gathering Limited Edition, the first Magic: The Gathering \n  card set. It premiered in a limited release at Origins Game Fair in 1993, with \n  a general release that August. Its print run of 2.6 million cards sold out very quickly and was replaced by Limited Edition's Beta print run. Limited Edition cards have no expansion symbol, no copyright date, no trademark symbols, although they do list the art credits at the bottom of the card.",
-    "created_at": "2013-11-11T17:41:18.741Z",
-    "updated_at": "2013-11-11T17:41:18.741Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 64,
     "name": "Limited Edition Beta",
     "code": "LEB",
     "block_id": 1,
-    "release_date": "1993-10-01T00:00:00.000Z",
+    "release_date": "1993-10-01 00:00:00 UTC",
     "description": "Limited Edition Beta or just Beta refers to the second \n  print run of the original Magic: The Gathering Limited Edition, the first \n  Magic: The Gathering card set.[3] It was released as soon as Wizards of the \n  Coast could afford to pay for the rest of the print run. The company took \n  advantage of the fact that the first edition print run had been split to \n  correct some minor problems in the rules and fix some errors on the cards. \n  Clarifications were made to the rulebook, and Richard Garfield's short fiction \n  'Worzel's Tale' was removed to make room. Like Alpha it had no expansion symbol, \n  and the text on the bottom left consisted of only the artist credit. \n  Although many players speak of Alpha and Beta as different sets, officially \n  they are the same set, and the company had expected that people wouldn't \n  necessarily be able to tell the two press runs apart. However, the printer \n  accidentally used different corner rounding dies for the second run, resulting \n  in the two distinct sets.",
-    "created_at": "2013-11-11T17:41:18.746Z",
-    "updated_at": "2013-11-11T17:41:18.746Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 65,
     "name": "Legends",
     "code": "LEG",
     "block_id": 6,
-    "release_date": "1994-06-01T00:00:00.000Z",
+    "release_date": "1994-06-01 00:00:00 UTC",
     "description": "Legends was the seventh Magic: The Gathering set and the third expansion set, released in June 1994. It was the first expansion set to be sold in packs of 15 (previous expansions had been sold in packs of 8). The set was designed by Wizards of the Coast co-founder Steve Conard and friend Robin Herbert in Canada before the game was initially released.[5] Legends introduces several mechanics and keywords to the game, but the focus of the set lies clearly on the Legends themselves. These were the first multicolored cards in the game. They are also special in that they are all Legendary creatures, meaning that only one of each type can be in play. The expansion symbol for Legends is the capital of a column.",
-    "created_at": "2013-11-11T17:41:18.750Z",
-    "updated_at": "2013-11-11T17:41:18.750Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 66,
     "name": "Legions",
     "code": "LGN",
     "block_id": 20,
-    "release_date": "2003-02-03T00:00:00.000Z",
+    "release_date": "2003-02-03 00:00:00 UTC",
     "description": "Legions is the second set in the Onslaught block of cards of Magic: The Gathering, along with the expansions Onslaught and Scourge. It contained 145 cards which continued on the themes started in Onslaught. Its expansion symbol is two spears behind a shield.",
-    "created_at": "2013-11-11T17:41:18.759Z",
-    "updated_at": "2013-11-11T17:41:18.759Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 67,
     "name": "Lorwyn",
     "code": "LRW",
     "block_id": 21,
-    "release_date": "2007-10-12T00:00:00.000Z",
+    "release_date": "2007-10-12 00:00:00 UTC",
     "description": "Lorwyn is the 66th Magic: The Gathering set, 43rd expert level set, and the first set in the Lorwyn Block, released in October 2007. It is codenamed \"Peanut\". The pre-release events for this set were held on September 29–30, 2007",
-    "created_at": "2013-11-11T17:41:18.768Z",
-    "updated_at": "2013-11-11T17:41:18.768Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 68,
     "name": "Magic 2010",
     "code": "M10",
     "block_id": 1,
-    "release_date": "2009-07-17T00:00:00.000Z",
+    "release_date": "2009-07-17 00:00:00 UTC",
     "description": "Magic 2010 is a Magic: The Gathering expansion set, that was released on July 17, 2009. It is the eleventh core set for Magic: the Gathering. It is the first Core Set since Limited Edition Beta (which included two cards accidentally left out of the original Limited Edition Alpha) to feature new cards;[1] about half the cards were new with the rest being reprints (in contrast to most previous core sets, which consisted entirely of reprints).",
-    "created_at": "2013-11-11T17:41:18.773Z",
-    "updated_at": "2013-11-11T17:41:18.773Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 69,
     "name": "Magic 2011",
     "code": "M11",
     "block_id": 1,
-    "release_date": "2010-07-16T00:00:00.000Z",
+    "release_date": "2010-07-16 00:00:00 UTC",
     "description": "agic 2011 is a Magic: The Gathering expansion set that was released on July 16, 2010. It was the twelfth core set for Magic: the Gathering. As its predecessor, Magic 2010, the set has new cards in it, but this time 110 new cards.",
-    "created_at": "2013-11-11T17:41:18.778Z",
-    "updated_at": "2013-11-11T17:41:18.778Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 70,
     "name": "Magic 2012",
     "code": "M12",
     "block_id": 1,
-    "release_date": "2011-07-15T00:00:00.000Z",
+    "release_date": "2011-07-15 00:00:00 UTC",
     "description": "Magic 2012 is a Magic: The Gathering expansion set that was released on July 15, 2011. It is the thirteenth core set for Magic: the Gathering.[1] This set has 97 new cards in it.",
-    "created_at": "2013-11-11T17:41:18.783Z",
-    "updated_at": "2013-11-11T17:41:18.783Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 71,
     "name": "Magic 2013",
     "code": "M13",
     "block_id": 1,
-    "release_date": "2012-07-13T00:00:00.000Z",
+    "release_date": "2012-07-13 00:00:00 UTC",
     "description": "Magic 2013 is a Magic: The Gathering expansion set, which was released on July 13, 2012.[1] The tagline for the set is 'Face a Greater Challenge.'\n  There were 108 new magic cards printed in this set. Magic 2013 is the first core set ever to have a multi colored card, the planeswalker Nicol Bolas. It is the second Magic Core set (Tenth Edition was the first) to feature legendary cards; one legendary creature of each color plus the artifact Akroma's Memorial.",
-    "created_at": "2013-11-11T17:41:18.789Z",
-    "updated_at": "2013-11-11T17:41:18.789Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 72,
     "name": "Magic 2014 Core Set",
     "code": "M14",
     "block_id": 1,
-    "release_date": "2013-07-19T00:00:00.000Z",
+    "release_date": "2013-07-19 00:00:00 UTC",
     "description": "Magic 2014 is a Magic: The Gathering expansion set, released on July 19, 2013.[1] The tagline for the set is \"Ignite your Spark.\"\n  Several new Magic 2014 cards and reprints have been released. The returning mechanics are Slivers, a series of creatures of which each grants an ability to each Sliver.",
-    "created_at": "2013-11-11T17:41:18.793Z",
-    "updated_at": "2013-11-11T17:41:18.793Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 73,
     "name": "Mirrodin Besieged",
     "code": "MBS",
     "block_id": 22,
-    "release_date": "2011-02-04T00:00:00.000Z",
+    "release_date": "2011-02-04 00:00:00 UTC",
     "description": "Mirrodin Besieged is a Magic: The Gathering expansion set released February 4, 2011. It is the second set of the Scars of Mirrodin block. This block marked the return to the plane of Mirrodin, that was last visited in the Mirrodin block that concluded in 2004.[1] The tagline for the set was \"Steel Yourself for War.\"[2] The Mirrodin Besieged Prereleases were held on January 29–30, 2011. They were different from other prereleases in that there were special Mirrodin Besieged boosters that were only available for the prerelease. These boosters were composed exclusively of cards from either the Mirran or the Phyrexian faction. A player had to choose one of these sides upon entering the prerelease and received the corresponding boosters.",
-    "created_at": "2013-11-11T17:41:18.800Z",
-    "updated_at": "2013-11-11T17:41:18.800Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 74,
     "name": "Masters Edition II",
     "code": "ME2",
     "block_id": 23,
-    "release_date": "2008-09-26T00:00:00.000Z",
+    "release_date": "2008-09-26 00:00:00 UTC",
     "description": "The _Masters Edition II_ set is a collection of \n  _Magic_(TM) cards that were originally printed before the _Mirage_(TM) set was\n  released. It's a 245-card, black-bordered set featuring 80 rares, \n  80 uncommons, 80 commons, and 5 basic lands. The _Masters Edition II_ set is \n  nonredeemable: Online cards from the _Masters Edition II_ set can't be \n  exchanged for physical cards",
-    "created_at": "2013-11-11T17:41:18.808Z",
-    "updated_at": "2013-11-11T17:41:18.808Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 75,
     "name": "Masters Edition III",
     "code": "ME3",
     "block_id": 24,
-    "release_date": "2009-09-09T00:00:00.000Z",
+    "release_date": "2009-09-09 00:00:00 UTC",
     "description": "Masters Edition III consists mainly of cards from The Dark, Legends, and Portal Three Kingdoms. While The Dark and Legends reflect the era Masters Edition III cards should be mostly from, the Portal Three Kingdoms cards are arguably the most distinctive part of ME3 even though that set was released five years after Legends and The Dark. This is due to the fact that one of the most widely used creature abilities in Magic, 'Flying', is almost completely replaced by its Portal Three Kingdoms counterpart, 'Horsemanship'. The other mechanics employed in Masters Edition III are multicolored cards and Legendary Creatures. Masters Edition III has a minor tribal theme of Faeries, Kobolds, and Minotaurs are the tribes used in Masters Edition III. Masters Edition III also reprints six World Enchantments.",
-    "created_at": "2013-11-11T17:41:18.816Z",
-    "updated_at": "2013-11-11T17:41:18.816Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 76,
     "name": "Masters Edition IV",
     "code": "ME4",
     "block_id": 23,
-    "release_date": "2011-01-10T00:00:00.000Z",
+    "release_date": "2011-01-10 00:00:00 UTC",
     "description": "The fourth installment of the series consists mainly of cards from Beta, Arabian Nights, Antiquities, and the Portal sets. While Beta, Arabian Nights, and Antiquities reflect the era Masters Edition IV cards should mostly be from, the Portal and Starter cards in the set were necessary to create an enjoyable limited environment. Otherwise the number of creatures with an acceptable power level would have been too small.[5] The mechanics employed in Masters Edition IV focus on artifacts. Finally Birds, Zombies, Goblins, and Elephants are the tribes used in Masters Edition IV. The most prominent exception to this are the original dual lands, which had been previously printed across two sets, but here are reprinted in their entirety.",
-    "created_at": "2013-11-11T17:41:18.822Z",
-    "updated_at": "2013-11-11T17:41:18.822Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 77,
     "name": "Masters Edition",
     "code": "MED",
     "block_id": 23,
-    "release_date": "2007-09-10T00:00:00.000Z",
+    "release_date": "2007-09-10 00:00:00 UTC",
     "description": "Masters Edition is a series of Magic: The Gathering expansions that have been released exclusive for Magic: The Gathering Online. Each set consists of reprints from early Magic sets that had yet to be released to Magic Online. ",
-    "created_at": "2013-11-11T17:41:18.828Z",
-    "updated_at": "2013-11-11T17:41:18.828Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 78,
     "name": "Mirage",
     "code": "MIR",
     "block_id": 25,
-    "release_date": "2005-12-05T00:00:00.000Z",
+    "release_date": "2005-12-05 00:00:00 UTC",
     "description": "Mirage was the fifteenth Magic: The Gathering set and ninth expert level set, released in October 1996. This expansion began the first official block set with one large expansion being followed by two smaller expansions all tied together through card mechanics and setting. This expansion also introduced 5th Edition rules (5th Edition was released in March 1997). Mirage's expansion symbol is a palm tree. On 5 December 2005 Mirage was released on Magic: The Gathering Online. It was the first set that was retroactively released on Magic Online.",
-    "created_at": "2013-11-11T17:41:18.835Z",
-    "updated_at": "2013-11-11T17:41:18.835Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 79,
     "name": "Modern Masters",
     "code": "MMA",
     "block_id": 6,
-    "release_date": "2013-06-07T00:00:00.000Z",
+    "release_date": "2013-06-07 00:00:00 UTC",
     "description": "Modern Masters is the second Magic: The Gathering compilation set, with the first compilation set being Chronicles. It was released on June 7th, 2013 by Wizards of the Coast. One booster box of Modern Masters contains only 24 booster packs, compared to a regular expansion containing 36 packs. The pricing of a booster pack from Modern Masters has a suggested retail price of $6.99 up from a regular suggested price of $3.99 for a regular expansion booster pack.[2] The set will be released in English only.",
-    "created_at": "2013-11-11T17:41:18.840Z",
-    "updated_at": "2013-11-11T17:41:18.840Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 80,
     "name": "Mercadian Masques",
     "code": "MMQ",
     "block_id": 26,
-    "release_date": "1999-10-04T00:00:00.000Z",
+    "release_date": "1999-10-04 00:00:00 UTC",
     "description": "Mercadian Masques is the nineteenth Magic: The Gathering expansion and was released in October 4, 1999 as the first set in the Masques block. It was the first set that is not subject to Wizards of the Coast's 'Reprint Policy'. Mercadian Masques is set on the plane of Mercadia.",
-    "created_at": "2013-11-11T17:41:18.847Z",
-    "updated_at": "2013-11-11T17:41:18.847Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 81,
     "name": "Morningtide",
     "code": "MOR",
     "block_id": 21,
-    "release_date": "2008-02-01T00:00:00.000Z",
+    "release_date": "2008-02-01 00:00:00 UTC",
     "description": "Morningtide is an expansion set, codenamed \"Butter\", for the trading card game Magic: The Gathering. It is the 44th expert level set, and it was released on February 1, 2008. The pre-release events for this set were held on January 19 and January 20, 2008.",
-    "created_at": "2013-11-11T17:41:18.851Z",
-    "updated_at": "2013-11-11T17:41:18.851Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 82,
     "name": "Mirrodin",
     "code": "MRD",
     "block_id": 2,
-    "release_date": "2003-10-03T00:00:00.000Z",
+    "release_date": "2003-10-03 00:00:00 UTC",
     "description": "Mirrodin was the 50th Magic: The Gathering set, the 30th expert level set, and the first set in the Mirrodin Block, released in October 2003. It is a 306-card expansion set. It is also the name of the block containing the Mirrodin, Darksteel and Fifth Dawn expansion sets. This expansion, as well as the rest of the block, is centered around artifacts and is only the second set to do so (from a card frequency point of view) since Antiquities. The percentage of artifact cards is much higher than in any preceding set. Mirrodin 's expansion symbol is a small image of Sword of Kaldra, a card from this set.",
-    "created_at": "2013-11-11T17:41:18.855Z",
-    "updated_at": "2013-11-11T17:41:18.855Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 83,
     "name": "Nemesis",
     "code": "NEM",
     "block_id": 26,
-    "release_date": "2000-02-14T00:00:00.000Z",
+    "release_date": "2000-02-14 00:00:00 UTC",
     "description": "Nemesis is the second set in the Mercadian Masques block of sets in the Magic: The Gathering game, along with the expansions Mercadian Masques and Prophecy. Its expansion symbol is an axe. The set consists of 143 cards and was released on February 14, 2000. Nemesis is set on the plane of Rath.",
-    "created_at": "2013-11-11T17:41:18.859Z",
-    "updated_at": "2013-11-11T17:41:18.859Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 84,
     "name": "New Phyrexia",
     "code": "NPH",
     "block_id": 22,
-    "release_date": "2011-05-13T00:00:00.000Z",
+    "release_date": "2011-05-13 00:00:00 UTC",
     "description": "New Phyrexia is a Magic: The Gathering expansion set that was released May 13, 2011. It is the third set of the Scars of Mirrodin block, which returns to the plane of Mirrodin, previously visited in the Mirrodin block that concluded in 2004. The release announcement indicated that the set, codenamed \"Action\", would be named either Mirrodin Pure or New Phyrexia.\n  The tagline for the set is \"The Grand Compleation is Achieved,\" and the expansion symbol matches the Phyrexian watermarks found on non-land or planeswalker cards from Scars of Mirrodin and Mirrodin Besieged. Prerelease events were held on May 7 and 8. It contains 175 cards.",
-    "created_at": "2013-11-11T17:41:18.864Z",
-    "updated_at": "2013-11-11T17:41:18.864Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 85,
     "name": "Odyssey",
     "code": "ODY",
     "block_id": 19,
-    "release_date": "2001-10-01T00:00:00.000Z",
+    "release_date": "2001-10-01 00:00:00 UTC",
     "description": "Odyssey is the 24th Magic: The Gathering expert-level expansion set. Released in September, 2001, Odyssey is the first set in the Odyssey Block. Its expansion symbol is a small image of the Mirari (see storyline).",
-    "created_at": "2013-11-11T17:41:18.868Z",
-    "updated_at": "2013-11-11T17:41:18.868Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 86,
     "name": "Onslaught",
     "code": "ONS",
     "block_id": 20,
-    "release_date": "2002-10-07T00:00:00.000Z",
+    "release_date": "2002-10-07 00:00:00 UTC",
     "description": "Onslaught is the 27th Magic: The Gathering expert-level expansion set. It was released in October 2002. The set's main theme is creature types (for example, Clerics and Goblins), and much of the game play concerns interactions between these 'tribes'. The story continues the saga of the Mirari from the previous block of expansion sets. The expansion symbol is an artist's rendition of a 'morphed' creature.",
-    "created_at": "2013-11-11T17:41:18.873Z",
-    "updated_at": "2013-11-11T17:41:18.873Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 87,
     "name": "Portal Second Age",
     "code": "P02",
     "block_id": 27,
-    "release_date": "1998-06-01T00:00:00.000Z",
+    "release_date": "1998-06-01 00:00:00 UTC",
     "description": "Portal Second Age is the name of the second Magic: The Gathering starter level set which came out on June 24, 1998. The set contains 165 cards in all languages except Portuguese, which contained 49 cards.",
-    "created_at": "2013-11-11T17:41:18.880Z",
-    "updated_at": "2013-11-11T17:41:18.880Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 88,
     "name": "Planechase 2012 Edition",
     "code": "PC2",
     "block_id": 18,
-    "release_date": "2012-06-01T00:00:00.000Z",
+    "release_date": "2012-06-01 00:00:00 UTC",
     "description": "The Planechase (2012 Edition) release consists of four \n  different game packs: \"Chaos Reigns,\" \"Night of the Ninja,\" \n  \"Primordial Hunger,\" and \"Savage Auras.\" Each game pack contains a 60-card \n  traditional Magic deck, a 10-card planar deck consisting of 8 plane cards and \n  2 phenomenon cards, and a six-sided planar die.",
-    "created_at": "2013-11-11T17:41:18.886Z",
-    "updated_at": "2013-11-11T17:41:18.886Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 89,
     "name": "Prophecy",
     "code": "PCY",
     "block_id": 26,
-    "release_date": "2000-06-05T00:00:00.000Z",
+    "release_date": "2000-06-05 00:00:00 UTC",
     "description": "Prophecy is a Magic: The Gathering expansion set. It was the third set of the Masques block, along with the expansion Mercadian Masques and Nemesis. The Prophecy expansion consists of 143 cards. Its expansion symbol are three crystals. Prophecy is set on the plane of Dominaria.",
-    "created_at": "2013-11-11T17:41:18.891Z",
-    "updated_at": "2013-11-11T17:41:18.891Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 90,
     "name": "Premium Deck Series: Fire and Lightning",
     "code": "PD2",
     "block_id": 17,
-    "release_date": "2010-11-19T00:00:00.000Z",
+    "release_date": "2010-11-19 00:00:00 UTC",
     "description": "Premium Deck Series: Fire & Lightning was released November 19, 2010. The set was mono-red and revolved around Elemental creatures and various red spells that dealt direct damage to creatures or opponents.",
-    "created_at": "2013-11-11T17:41:18.897Z",
-    "updated_at": "2013-11-11T17:41:18.897Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 91,
     "name": "Premium Deck Series: Graveborn",
     "code": "PD3",
     "block_id": 17,
-    "release_date": "2011-11-18T00:00:00.000Z",
+    "release_date": "2011-11-18 00:00:00 UTC",
     "description": "Premium Deck Series: Graveborn was released November 18, 2011. The set revolved around cards that deal with the graveyard.",
-    "created_at": "2013-11-11T17:41:18.902Z",
-    "updated_at": "2013-11-11T17:41:18.902Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 92,
     "name": "Planar Chaos",
     "code": "PLC",
     "block_id": 28,
-    "release_date": "2007-02-02T00:00:00.000Z",
+    "release_date": "2007-02-02 00:00:00 UTC",
     "description": "Planar Chaos is an expansion set, codenamed \"Crackle,\" from the trading card game Magic: The Gathering. The set was released on February 2, 2007. The pre-release events took place on January 20 and 21, 2007. It is the second set in the Time Spiral block. The symbol for Planar Chaos is a Möbius strip",
-    "created_at": "2013-11-11T17:41:18.909Z",
-    "updated_at": "2013-11-11T17:41:18.909Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 93,
     "name": "Planeshift",
     "code": "PLS",
     "block_id": 5,
-    "release_date": "2001-02-05T00:00:00.000Z",
+    "release_date": "2001-02-05 00:00:00 UTC",
     "description": "Planeshift is the name of the second set in the Invasion block of cards of Magic: The Gathering, along with the expansions Invasion and Apocalypse. It contained 143 cards.",
-    "created_at": "2013-11-11T17:41:18.914Z",
-    "updated_at": "2013-11-11T17:41:18.914Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 94,
     "name": "Portal",
     "code": "POR",
     "block_id": 27,
-    "release_date": "1997-06-01T00:00:00.000Z",
+    "release_date": "1997-06-01 00:00:00 UTC",
     "description": "Portal is the eighteenth Magic: The Gathering set and first starter level set, released on May 1, 1997. Depending on the language, the set contains between 221 and 228 cards.",
-    "created_at": "2013-11-11T17:41:18.917Z",
-    "updated_at": "2013-11-11T17:41:18.917Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 95,
     "name": "Portal Three Kingdoms",
     "code": "PTK",
     "block_id": 27,
-    "release_date": "1999-05-01T00:00:00.000Z",
+    "release_date": "1999-05-01 00:00:00 UTC",
     "description": "Portal Three Kingdoms is the third Magic: The Gathering expansion of the Portal block, and the third starter level set. Like the other expansions in the Portal block, Portal: Three Kingdoms is designed for beginners to Magic. The setting is heavily based on the Chinese historical novel Romance of the Three Kingdoms by Luo Guanzhong. Each card, including each basic land, was illustrated by a Chinese artist.",
-    "created_at": "2013-11-11T17:41:18.920Z",
-    "updated_at": "2013-11-11T17:41:18.920Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 96,
     "name": "Ravnica: City of Guilds",
     "code": "RAV",
     "block_id": 12,
-    "release_date": "2005-10-07T00:00:00.000Z",
+    "release_date": "2005-10-07 00:00:00 UTC",
     "description": "Ravnica: City of Guilds is a Magic: The Gathering set and is the first set in the Ravnica Block. Ravnica was released on October 7, 2005 (prerelease events were held worldwide on September 24 and 25, 2005). Its expansion symbol is a silhouette of a city with a prominent clock tower.\n  Following in the tradition of recent Magic blocks, Ravnica takes place in a plane of the multiverse that was previously unexplored in the game's backstory. The world of Ravnica is an ecumenopolis, a vast city that covers the entire surface of its planet, and is home to a diverse assortment of sentient races. Much power in Ravnica is held by the ten 'guilds', political factions that each represent a combination of two of Magic's five colors.",
-    "created_at": "2013-11-11T17:41:18.924Z",
-    "updated_at": "2013-11-11T17:41:18.924Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 97,
     "name": "Rise of the Eldrazi",
     "code": "ROE",
     "block_id": 29,
-    "release_date": "2010-04-23T00:00:00.000Z",
+    "release_date": "2010-04-23 00:00:00 UTC",
     "description": "Rise of the Eldrazi is a Magic: The Gathering expansion released on April 23, 2010. It is the third set of the Zendikar block. It is a large set consisting of 228 cards plus 20 basic lands. Its tagline is \"And Carnage Shall Follow.\" The set, while part of the Zendikar block creatively and for the sake of constructed tournament rules, is unique mechanically and is designed to be drafted on its own. Drafts in the Zendikar block are either ZEN-ZEN-WWK or ROE-ROE-ROE.",
-    "created_at": "2013-11-11T17:41:18.930Z",
-    "updated_at": "2013-11-11T17:41:18.930Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 98,
     "name": "Return to Ravnica",
     "code": "RTR",
     "block_id": 11,
-    "release_date": "2012-10-05T00:00:00.000Z",
+    "release_date": "2012-10-05 00:00:00 UTC",
     "description": "Return to Ravnica is a Magic: The Gathering expansion that was released on October 5, 2012. It is the first set of the Return to Ravnica block, and it contains 274 cards. Return to Ravnica focuses on five of the returning guilds; the Izzet League, Cult of Rakdos, Golgari Swarm, Azorius Senate, and Selesnya Conclave. As in the original Ravnica block, Return to Ravnica focuses on multicolor cards. The story told vaguely in the cards deals with the Izzet League searching for something deep within Ravnica's bowels and the other guilds responding to their mysterious actions.",
-    "created_at": "2013-11-11T17:41:18.935Z",
-    "updated_at": "2013-11-11T17:41:18.935Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 99,
     "name": "Starter 2000",
     "code": "S00",
     "block_id": 30,
-    "release_date": "2000-07-01T00:00:00.000Z",
+    "release_date": "2000-07-01 00:00:00 UTC",
     "description": "Starter 2000 was a limited run small theme deck only expansion set released for Magic: The Gathering on April 24, 2000. The set would be the fifth and last 'Starter Level' standalone set to see production.",
-    "created_at": "2013-11-11T17:41:18.943Z",
-    "updated_at": "2013-11-11T17:41:18.943Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 100,
     "name": "Starter 1999",
     "code": "S99",
     "block_id": 30,
-    "release_date": "1999-07-01T00:00:00.000Z",
+    "release_date": "1999-07-01 00:00:00 UTC",
     "description": "Starter is the name of the Magic: The Gathering beginners set which came out on August 27, 1999. The set contains 173 cards. The set became known as Starter 1999 after the release of Starter 2000, and is the fourth starter level set.",
-    "created_at": "2013-11-11T17:41:18.948Z",
-    "updated_at": "2013-11-11T17:41:18.948Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 101,
     "name": "Scourge",
     "code": "SCG",
     "block_id": 20,
-    "release_date": "2003-05-26T00:00:00.000Z",
+    "release_date": "2003-05-26 00:00:00 UTC",
     "description": "Scourge is a Magic: The Gathering expansion set. It is the third set of the Onslaught block and the last set printed before the 'modern' card face style was introduced. There are 143 cards overall. The expansion symbol is a dragon's skull.",
-    "created_at": "2013-11-11T17:41:18.953Z",
-    "updated_at": "2013-11-11T17:41:18.953Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 102,
     "name": "Shadowmoor",
     "code": "SHM",
     "block_id": 15,
-    "release_date": "2008-05-02T00:00:00.000Z",
+    "release_date": "2008-05-02 00:00:00 UTC",
     "description": "The Shadowmoor is an expansion set, codenamed \"Jelly\", from the trading card game Magic: The Gathering. It was released on May 2, 2008. The pre-release events for this set were held on April 19–20, 2008.",
-    "created_at": "2013-11-11T17:41:18.957Z",
-    "updated_at": "2013-11-11T17:41:18.957Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 103,
     "name": "Saviors of Kamigawa",
     "code": "SOK",
     "block_id": 8,
-    "release_date": "2005-06-03T00:00:00.000Z",
+    "release_date": "2005-06-03 00:00:00 UTC",
     "description": "Saviors of Kamigawa (also Saviors or SoK) is a Magic: The Gathering set, third and last in the Kamigawa block. Saviors of Kamigawa was released on June 3, 2005 (prerelease on May 21, 2005). Its expansion symbol is a Japanese lantern.",
-    "created_at": "2013-11-11T17:41:18.961Z",
-    "updated_at": "2013-11-11T17:41:18.961Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 104,
     "name": "Scars of Mirrodin",
     "code": "SOM",
     "block_id": 22,
-    "release_date": "2010-10-01T00:00:00.000Z",
+    "release_date": "2010-10-01 00:00:00 UTC",
     "description": "Scars of Mirrodin is a Magic: The Gathering expansion that was released on October 1, 2010. It is the first set of the Scars of Mirrodin block. This block marked the return to the plane of Mirrodin. This plane was last visited in the Mirrodin block that concluded in 2004.[2] The interim tagline for the set was \"The Corrosion Begins October 1, 2010.\" The plans for this set were first made public by mananation.com when it was discovered that \"Scars of Mirrodin\", as well as \"Mirrodin Pure\" and \"New Phyrexia\" had been registered as trademarks with the US Patent and Trademark Office by Wizards of the Coast.[3]\n  As with the original Mirrodin block, artifacts make up the overarching theme of Scars of Mirrodin; Nearly half of all cards in the set are artifacts. In his May 24 column, Mark Rosewater confirmed that the \"Infect\" game mechanic in Scars of Mirrodin would bring poison counters back to Magic.",
-    "created_at": "2013-11-11T17:41:18.965Z",
-    "updated_at": "2013-11-11T17:41:18.965Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 105,
     "name": "Stronghold",
     "code": "STH",
     "block_id": 16,
-    "release_date": "2009-04-13T00:00:00.000Z",
+    "release_date": "2009-04-13 00:00:00 UTC",
     "description": "Stronghold was the 21st Magic: The Gathering set and thirteenth expert level set, and the second set in the Rath Block, released in March 1998. The block includes Tempest and Exodus. Stronghold contains 143 cards. Its expansion symbol is the closed portcullis of Volrath's stronghold.",
-    "created_at": "2013-11-11T17:41:18.970Z",
-    "updated_at": "2013-11-11T17:41:18.970Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 106,
     "name": "Theros",
     "code": "THS",
     "block_id": 31,
-    "release_date": "2013-09-27T00:00:00.000Z",
+    "release_date": "2013-09-27 00:00:00 UTC",
     "description": "",
-    "created_at": "2013-11-11T17:41:18.977Z",
-    "updated_at": "2013-11-11T17:41:18.977Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 107,
     "name": "Tempest",
     "code": "TMP",
     "block_id": 16,
-    "release_date": "2008-12-08T00:00:00.000Z",
+    "release_date": "2008-12-08 00:00:00 UTC",
     "description": "Tempest was the 20th Magic: The Gathering set and twelfth expert level set, and the first set in the Rath Block, released in October 1997. The release of Tempest represented a large jump in the power level of the card set, compared to the previous Mirage block. Many cards from Tempest instantly became (and still are) tournament staples. Its expansion symbol is a cloud, with a lightning bolt erupting out. On 8 December 2008 Tempest was released for Magic: The Gathering Online.",
-    "created_at": "2013-11-11T17:41:18.981Z",
-    "updated_at": "2013-11-11T17:41:18.981Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 108,
     "name": "Torment",
     "code": "TOR",
     "block_id": 19,
-    "release_date": "2002-02-04T00:00:00.000Z",
+    "release_date": "2002-02-04 00:00:00 UTC",
     "description": "Torment is the second set in the Odyssey Block for the collectible card game Magic: The Gathering. This expansion set, which focused on black, is unique in that it is the first set to focus on a single color. It has 40 Black cards, 28 Blue cards, 28 Red cards, 21 Green Cards and 21 White cards. This imbalance is, however, balanced by the release of the third expansion set in the Odyssey Block, Judgment.",
-    "created_at": "2013-11-11T17:41:18.985Z",
-    "updated_at": "2013-11-11T17:41:18.985Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 109,
     "name": "Time Spiral \"Timeshifted\"",
     "code": "TSH",
     "block_id": 28,
-    "release_date": "2006-10-06T00:00:00.000Z",
+    "release_date": "2006-10-06 00:00:00 UTC",
     "description": "In the Time Spiral set, timeshifted cards make up a 121-card subset comprised entirely of pre-Mirrodin reprints, tying in with the set's theme of revisiting the past. Each card in the subset features the old 7th Edition card frame and has a new purple expansion symbol to denote their unique rarity. One timeshifted card appears in every Time Spiral booster pack, making the cards roughly 50% rarer than rare cards, which also appear once per pack but comprise of only 80 cards. However, in the Time Spiral Preconstructed Decks, timeshifted cards are treated as though they had their original rarity, as each deck features several of the timeshifted cards that were originally common, including multiples of the same card.",
-    "created_at": "2013-11-11T17:41:18.992Z",
-    "updated_at": "2013-11-11T17:41:18.992Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 110,
     "name": "Time Spiral",
     "code": "TSP",
     "block_id": 28,
-    "release_date": "2006-10-06T00:00:00.000Z",
+    "release_date": "2006-10-06 00:00:00 UTC",
     "description": "Time Spiral is a Magic: The Gathering expansion set, released October 6, 2006. The set is laden with references to previous Magic: the Gathering sets. The references are reflected in the card design, which incorporates special rules from older sets, and in the \"Timeshifted\" cards, which are cards reprinted from older sets using the older card design (abandoned three years previous with the 2003 release of Core Set 8th Edition.) The Time Spiral expansion symbol is an hourglass.\n  Time Spiral is the first set in the block of the same name. (A \"block\" consists of three theme-related expansion sets released over a period of a year.) It is followed by Planar Chaos, which deals with alternate timelines and includes many cards reprinted from previous sets but changed in some fundamental way, and Future Sight, which is forward-looking, both in that it includes cards from settings not yet explored in previous sets as well as including game mechanics that did not exist until it came out.\n  As with all Magic: the Gathering sets in this period, Time Spiral is accompanied by a tie-in novel of the same name. Time Spiral, written by Scott McGough, focuses on the efforts of Teferi to deal with the consequences of phasing out Shiv and Zhalfir during the Phyrexian Invasion. This novel was published in September 2006.\n  Time Spiral is typical among the first sets of a Magic: the Gathering block in that the cards are sold in four different forms. Four different theme decks, 60 card decks with themed, fixed composition were released, each featuring a different aspect of the set. Randomized packs, both as the typical 15-card booster packs and the larger 75-card tournament packs",
-    "created_at": "2013-11-11T17:41:18.997Z",
-    "updated_at": "2013-11-11T17:41:18.997Z"
+    "created_at": "2013-11-11 17:41:18 UTC",
+    "updated_at": "2013-11-11 17:41:18 UTC"
   },
   {
     "id": 111,
     "name": "Urza's Destiny",
     "code": "UDS",
     "block_id": 32,
-    "release_date": "1999-05-29T00:00:00.000Z",
+    "release_date": "1999-05-29 00:00:00 UTC",
     "description": "Urza's Destiny is a Magic: The Gathering set, third in the Urza Block. Urza's Destiny was released on June 23, 1999. It was released in digital form on Magic Online on April 13, 2011.",
-    "created_at": "2013-11-11T17:41:19.006Z",
-    "updated_at": "2013-11-11T17:41:19.006Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 112,
     "name": "Unglued",
     "code": "UGL",
     "block_id": 33,
-    "release_date": "1998-08-07T00:00:00.000Z",
+    "release_date": "1998-08-07 00:00:00 UTC",
     "description": "Unglued is the name of a Magic: The Gathering expansion set, the first silver-bordered, non-tournament-legal Magic: The Gathering expansion set released. It came out in August 1998. Its symbol is a cracked egg. Among the themes of the set were chicken, dice rolling and multiplayer Magic games.",
-    "created_at": "2013-11-11T17:41:19.017Z",
-    "updated_at": "2013-11-11T17:41:19.017Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 113,
     "name": "Urza's Legacy",
     "code": "ULG",
     "block_id": 32,
-    "release_date": "1999-02-15T00:00:00.000Z",
+    "release_date": "1999-02-15 00:00:00 UTC",
     "description": "Urza's Legacy is a Magic: The Gathering set, second in the Urza Block. Urza's Legacy was released in February 1999.",
-    "created_at": "2013-11-11T17:41:19.021Z",
-    "updated_at": "2013-11-11T17:41:19.021Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 114,
     "name": "Unhinged",
     "code": "UNH",
     "block_id": 33,
-    "release_date": "2004-11-20T00:00:00.000Z",
+    "release_date": "2004-11-20 00:00:00 UTC",
     "description": "Unhinged is a humor and parody themed expansion set to the collectible card game Magic: The Gathering. Unhinged was released on November 19, 2004. Its tone is less serious than traditional Magic expansions. It is a follow-on to Unglued, an earlier humor themed expansion set.",
-    "created_at": "2013-11-11T17:41:19.024Z",
-    "updated_at": "2013-11-11T17:41:19.024Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 115,
     "name": "Urza's Saga",
     "code": "USG",
     "block_id": 32,
-    "release_date": "2010-03-29T00:00:00.000Z",
+    "release_date": "2010-03-29 00:00:00 UTC",
     "description": "Urza's Saga is the 15th expert level set, a 350-card expansion set for the fantasy game Magic: The Gathering. It debuted in October 1998. Mark Rosewater considers it to contain some of the most powerful artifacts (and artifact-related cards) ever released, with many cards now banned in tournament formats.[1] The expansion symbol features a pair of gears.",
-    "created_at": "2013-11-11T17:41:19.029Z",
-    "updated_at": "2013-11-11T17:41:19.029Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 116,
     "name": "From the Vault: Exiled",
     "code": "V09",
     "block_id": 14,
-    "release_date": "2009-08-28T00:00:00.000Z",
+    "release_date": "2009-08-28 00:00:00 UTC",
     "description": "From the Vault: Exiled was released August 28, 2009. It contained 15 cards, all of which are or were banned or restricted in some or all formats.",
-    "created_at": "2013-11-11T17:41:19.034Z",
-    "updated_at": "2013-11-11T17:41:19.034Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 117,
     "name": "From the Vault: Relics",
     "code": "V10",
     "block_id": 14,
-    "release_date": "2010-08-27T00:00:00.000Z",
+    "release_date": "2010-08-27 00:00:00 UTC",
     "description": "From the Vault: Relics was released August 27, 2010. It contained 15 cards, all of which were artifacts, and one of which was a pre-release of a card in the Scars of Mirrodin set.",
-    "created_at": "2013-11-11T17:41:19.039Z",
-    "updated_at": "2013-11-11T17:41:19.039Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 118,
     "name": "From the Vault: Legends",
     "code": "V11",
     "block_id": 14,
-    "release_date": "2011-08-26T00:00:00.000Z",
+    "release_date": "2011-08-26 00:00:00 UTC",
     "description": "From the Vault: Legends was released August 26, 2011. It contained 15 cards, all of which were legendary, and one of which was a pre-release of a card in the Innistrad set.",
-    "created_at": "2013-11-11T17:41:19.044Z",
-    "updated_at": "2013-11-11T17:41:19.044Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 119,
     "name": "From the Vault: Realms",
     "code": "V12",
     "block_id": 14,
-    "release_date": "2012-08-31T00:00:00.000Z",
+    "release_date": "2012-08-31 00:00:00 UTC",
     "description": "From the Vault: Realms: was released on August 31, 2012. It contained 15 cards, seven with new alternate art, all of which are lands.",
-    "created_at": "2013-11-11T17:41:19.048Z",
-    "updated_at": "2013-11-11T17:41:19.048Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 120,
     "name": "From the Vault: Twenty",
     "code": "V13",
     "block_id": 14,
-    "release_date": "2013-08-23T00:00:00.000Z",
+    "release_date": "2013-08-23 00:00:00 UTC",
     "description": "From the Vault: Twenty will be released on August 23, 2013. It will contain twenty cards, in commemoration of Magic's 20th anniversary.",
-    "created_at": "2013-11-11T17:41:19.052Z",
-    "updated_at": "2013-11-11T17:41:19.052Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 121,
     "name": "Visions",
     "code": "VIS",
     "block_id": 25,
-    "release_date": "2005-04-10T00:00:00.000Z",
+    "release_date": "2005-04-10 00:00:00 UTC",
     "description": "Visions was the sixteenth Magic: The Gathering set and tenth expert level set, released in February 1997. This expansion continued the Mirage block by using the same setting and mechanics introduced in Mirage. The expansion symbol for Visions is a V-shaped symbol, which is the 'triangle of war' used by the Zhalfir in the story. On 10 April 2006 Visions was released on Magic: The Gathering Online.",
-    "created_at": "2013-11-11T17:41:19.057Z",
-    "updated_at": "2013-11-11T17:41:19.057Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 122,
     "name": "Weatherlight",
     "code": "WTH",
     "block_id": 25,
-    "release_date": "2007-12-12T00:00:00.000Z",
+    "release_date": "2007-12-12 00:00:00 UTC",
     "description": "Weatherlight is the nineteenth Magic: The Gathering set and eleventh expert level set, third and last in the Mirage Block. Its expansion symbol is a book (the Thran Tome). It was released in June 1997 and later released for Magic: The Gathering Online on 12 December 2007.\n  Weatherlight marks a turning point in design and marketing philosophy for the Magic game & brand. While previous sets included allusions to an overarching story, Weatherlight was the first set to explicitly tell an ordered narrative focused on developed, archetypical characters.",
-    "created_at": "2013-11-11T17:41:19.060Z",
-    "updated_at": "2013-11-11T17:41:19.060Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 123,
     "name": "Worldwake",
     "code": "WWK",
     "block_id": 29,
-    "release_date": "2010-02-05T00:00:00.000Z",
+    "release_date": "2010-02-05 00:00:00 UTC",
     "description": "The _Worldwake_ set contains 145 cards (60 common, \n  40 uncommon, 35 rare, 10 mythic rare).",
-    "created_at": "2013-11-11T17:41:19.064Z",
-    "updated_at": "2013-11-11T17:41:19.064Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
   },
   {
     "id": 124,
     "name": "Zendikar",
     "code": "ZEN",
     "block_id": 29,
-    "release_date": "2009-10-02T00:00:00.000Z",
+    "release_date": "2009-10-02 00:00:00 UTC",
     "description": "The _Zendikar_ set features basic land cards that have \n  been printed without a text box. These lands appear in booster packs and in \n  the fat pack. Full-art basic lands function the same way as any other basic \n  lands, since each land with a basic land type intrinsically has the mana \n  ability associated with that type. (_Zendikar_ intro packs contain basic \n  land cards with normal card frames. The collector numbers of those cards \n  contain the letter \"a.\")",
-    "created_at": "2013-11-11T17:41:19.068Z",
-    "updated_at": "2013-11-11T17:41:19.068Z"
+    "created_at": "2013-11-11 17:41:19 UTC",
+    "updated_at": "2013-11-11 17:41:19 UTC"
+  },
+  {
+    "id": 125,
+    "name": "Born of the Gods",
+    "code": "BNG",
+    "block_id": 31,
+    "release_date": "2014-02-07 00:00:00 UTC",
+    "description": null,
+    "created_at": "2014-02-23 22:35:26 UTC",
+    "updated_at": "2014-02-23 22:35:26 UTC"
   }
 ]

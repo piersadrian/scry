@@ -1,4 +1,6 @@
 class SeedData
+  class_attribute :i_am_absolutely_positive
+
   class << self
 
     FILE_EXT  = "json".freeze
@@ -40,7 +42,9 @@ class SeedData
     # CAUTION: THIS METHOD IS EXTRAORDINARILY DESTRUCTIVE! NEVER, EVER, EVER
     # RUN THIS METHOD WITHOUT FULLY UNDERSTANDING WHAT IT DOES.
     def load!(input_dir = MODEL_DIR)
-      raise RuntimeError.new("You can't run this in production!") if Rails.env.production?
+      if Rails.env.production?
+        raise RuntimeError.new("You can't run this in production!") unless self.i_am_absolutely_positive
+      end
 
       Dir.glob( File.join(input_dir.split("/"), "*.#{ FILE_EXT }") ).each do |filename|
         model_class = File.basename( filename, ".#{ FILE_EXT }").gsub("-", "/").classify.constantize
