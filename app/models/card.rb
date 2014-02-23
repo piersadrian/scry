@@ -12,15 +12,14 @@
 #  card_type      :string(255)
 #  subtype        :string(255)
 #  text           :text
-#  mv_id          :string(255)
 #  created_at     :datetime
 #  updated_at     :datetime
 #
 
 class Card < ActiveRecord::Base
-  has_one :block, through: :card_set
   has_many :editions
   has_many :card_sets, through: :editions
+  has_many :blocks, through: :card_sets
 
   validates :name, uniqueness: true
 

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131125004636) do
+ActiveRecord::Schema.define(version: 20140223224257) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -36,9 +36,9 @@ ActiveRecord::Schema.define(version: 20131125004636) do
     t.string   "name"
     t.string   "mana_cost"
     t.integer  "converted_cost", default: 0
-    t.integer  "power"
-    t.integer  "toughness"
-    t.integer  "loyalty"
+    t.integer  "power",          default: 0
+    t.integer  "toughness",      default: 0
+    t.integer  "loyalty",        default: 0
     t.string   "card_type"
     t.string   "subtype"
     t.text     "text"
