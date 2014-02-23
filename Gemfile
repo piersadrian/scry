@@ -20,6 +20,10 @@ gem 'jbuilder', '~> 1.2'
 gem 'pry-rails'
 gem 'gist'
 
+group :production do
+  gem 'rails_12factor'
+end
+
 group :development do
   gem 'annotate'
 
