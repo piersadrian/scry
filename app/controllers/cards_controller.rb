@@ -20,6 +20,6 @@ class CardsController < ApplicationController
       scope.with_text(params[:text])
     end
 
-    render json: @cards.map {|c| c.attributes.merge(editions: c.editions) }
+    render json: @cards.map {|c| c.attributes.merge(editions: c.editions.as_json(methods: :image_crop_url)) }
   end
 end

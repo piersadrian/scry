@@ -9,6 +9,7 @@ $(document).ready ->
       filter: (cards) ->
         for card in cards
           card.image_url = card.editions[ card.editions.length - 1 ].image_url
+          card.image_crop_url = card.editions[ card.editions.length - 1 ].image_crop_url
         return cards
 
     valueKey: "name"
@@ -16,23 +17,27 @@ $(document).ready ->
     engine: Hogan
     template: '
       <div class="card-suggestion group">
-        <div class="card-image pull-left">
-          <img src="{{image_url}}">
-        </div>
+        <div class="suggestion-bg-image group" style="background-image: url({{image_crop_url}});">
+          <div class="suggestion-bg-color group">
+            <div class="card-image pull-left">
+              <img src="{{image_url}}">
+            </div>
 
-        <div class="card-details pull-left">
-          <header class="group">
-            <h3 class="card-cost pull-right">{{ mana_cost }}</h3>
-            <h3 class="card-name">{{ name }}</h3>
-          </header>
+            <div class="card-details pull-left">
+              <header class="group">
+                <h3 class="card-cost pull-right">{{ mana_cost }}</h3>
+                <h3 class="card-name">{{ name }}</h3>
+              </header>
 
-          <footer class="group">
-            <h3 class="card-stats pull-right">
-              {{#power}}{{ power }} / {{ toughness }}{{/power}}
-              {{#loyalty}}{{ loyalty }}{{/loyalty}}
-            </h3>
-            <h4 class="card-type">{{ card_type }} {{#subtype}} — {{ subtype }}{{/subtype}}</h4>
-          </footer>
+              <footer class="group">
+                <h3 class="card-stats pull-right">
+                  {{#power}}{{ power }} / {{ toughness }}{{/power}}
+                  {{#loyalty}}{{ loyalty }}{{/loyalty}}
+                </h3>
+                <h4 class="card-type">{{ card_type }} {{#subtype}} — {{ subtype }}{{/subtype}}</h4>
+              </footer>
+            </div>
+          </div>
         </div>
       </div>'
 

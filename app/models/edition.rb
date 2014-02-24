@@ -18,4 +18,12 @@
 class Edition < ActiveRecord::Base
   belongs_to :card
   belongs_to :card_set
+
+  def image_url
+    "http://mtgimage.com/multiverseid/#{ mv_id }.jpg"
+  end
+
+  def image_crop_url
+    "http://mtgimage.com/multiverseid/#{ mv_id }-crop.jpg"
+  end
 end
